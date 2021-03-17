@@ -1,2 +1,2 @@
 Fitxer de text.
-Canvi en el fitxer.
+Canvi en el fitxer. 
